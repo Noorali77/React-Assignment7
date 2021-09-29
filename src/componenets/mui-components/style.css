@@ -1,0 +1,33 @@
+.title{
+    text-decoration: none;
+    color: white;
+}
+
+.title2{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+
+.card{
+    margin: auto;
+    width: 50%;
+    
+}
+
+.nav-bot{
+    margin-bottom: 5%;
+}
+
+.login{
+    text-align: center;
+}
+
+.text-field{
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.chat-link{
+    text-decoration: none;
+}
